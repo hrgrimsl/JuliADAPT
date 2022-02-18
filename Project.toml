@@ -1,0 +1,13 @@
+name = "JuliADAPT"
+uuid = "3e5ea8c5-d755-4dfd-9253-d45793cecfef"
+authors = ["Harper <hrgrimsl@vt.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
