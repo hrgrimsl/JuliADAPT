@@ -1,5 +1,5 @@
 module JuliADAPT
 
-# Write your package code here.
+include("fci.jl")
 
 end

@@ -3,6 +3,9 @@ uuid = "3e5ea8c5-d755-4dfd-9253-d45793cecfef"
 authors = ["Harper <hrgrimsl@vt.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
 [compat]
 julia = "1"
 
